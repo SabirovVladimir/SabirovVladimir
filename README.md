@@ -13,3 +13,25 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+  ---
+
+### :man_technologist: About Me :
+I am a Data Analyst :chart_with_upwards_trend: from Russia.
+- :books:Graduated from Yandex courses
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)]([your-linkedin-url](https://t.me/VladimirSabirov))
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" title="Python" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="Sqlite" alt="Spring" width="40" height="40"/>&nbsp;
+  
+  ---
+
+### :fire: My Stats :
+  
