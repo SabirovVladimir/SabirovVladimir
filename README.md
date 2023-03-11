@@ -34,4 +34,6 @@ I am a Data Analyst :chart_with_upwards_trend: from Russia.
   ---
 
 ### :fire: My Stats :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SabirovVladimir&theme=,blue&background=white)](https://git.io/streak-stats)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabirovVladimir&theme=default)](https://github.com/anuraghazra/github-readme-stats)
