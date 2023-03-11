@@ -21,7 +21,7 @@
 ### :man_technologist: About Me :
 I am a Data Analyst :chart_with_upwards_trend: from Russia.
 - :books:Graduated from Yandex courses
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)]([your-linkedin-url](https://t.me/VladimirSabirov))
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/VladimirSabirov)
 
 ---
 
