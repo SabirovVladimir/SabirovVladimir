@@ -19,10 +19,6 @@
   ---
 
 ### :man_technologist: About Me :
-I am a Data Analyst :chart_with_upwards_trend: from Russia.
-- :stethoscope: In the past, I worked as a doctor in a St. Petersburg hospital, where I applied an analytical approach to the treatment of patients
-- :books:Graduated from Yandex courses
-- :bulb: In my free time I'm interested in game development
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/VladimirSabirov)
 
 ---
