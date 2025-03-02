@@ -1,17 +1,14 @@
-# ⚡ Welcome to the Madness ⚡  
+# ⚡ Welcome ⚡  
 
 ### "Write clean code," they said.  
 ### "Follow best practices," they said.  
 ### And here we are.  
-
-👾 This is my **corner of the internet**, where Git commits are written in desperation, **Airflow DAGs fail at 3 AM**, and Stack Overflow is my co-pilot. You won't find corporate-safe, enterprise-approved code here—just raw problem-solving, a bit of chaos, and some occasional genius (or stupidity, depends on the day).  
 
 ---
 
 ## 🔥 Who am I?  
 A **Python wrangler**, **data manipulator**, and **orchestrator of failed ETL pipelines**.  
 
-I break things, fix them, and pretend like I knew what I was doing the whole time. If that’s not the real dev experience, I don’t know what is.  
 
 ---
 
