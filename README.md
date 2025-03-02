@@ -48,7 +48,3 @@ If you're into **coding, sarcasm, and debugging existential crises**, hit me up:
 
 ---
 
-💀 **Final Thoughts**  
-There’s a fine line between **"genius"** and **"catastrophe."**  
-I like to dance on that line.  
-
